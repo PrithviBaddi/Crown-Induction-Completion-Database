@@ -1,0 +1,3 @@
+([('CrownEmirates_Admin',
+   '/Users/prithvibaddi/crown_admin_env/dist/CrownEmirates_Admin',
+   'EXECUTABLE')],)
